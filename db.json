@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": "10c5a915-710a-4b64-a15d-42b542907ce5",
+      "name": "The Psychology of Money",
+      "earnings": "10000",
+      "description": "Money making strategies"
+    },
+    {
+      "id": "13a3f36c-f302-43a7-bb19-f3581f72e2fb",
+      "name": "Thre Archer",
+      "earnings": "30000",
+      "description": "million copies sold"
+    }
+  ]
+}
